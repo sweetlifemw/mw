@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
   "Peter", "Nicollete", "Elijah", "Enock", "Samson", "Gerald", "Esther", "Judith", "Brenda", "Daniel"
 ];
 
-const comments = [
+const fakeComments = [
   "Maona ngati zaboza, koma zachitika", "This is real!", "Wanditumizira ndalama!", "Zikomo kwambiri!", "Ndikudabwa nazo",
   "Ambuye akudalitseni", "Basi zili khenge pano", "Ndapeza zomwe ndimafuna", "Sindingachitire underestimate", "Zoonadi zimayenda",
   "Ndangodabwa, osayiwala!", "Zikomo kwa inu!", "Ndangopanga deposit lero", "Mwaitha guys!", "Zimayenda izi",
